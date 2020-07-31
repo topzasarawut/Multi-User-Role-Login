@@ -2,7 +2,7 @@
 
     $db_host = "localhost"; // localhost server
     $db_user = "root"; // database username
-    $db_password = ""; // database password
+    $db_password = "12345678"; // database password
     $db_name = "php_multiplelogin"; // database name
 
     try {
